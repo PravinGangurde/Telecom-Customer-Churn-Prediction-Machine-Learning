@@ -1,5 +1,3 @@
-# Telecom-Churn-Analysis-Machine-Learning
-
 # 📊 Telecom Customer Churn Prediction
 
 ## 📌 Project Overview
@@ -97,4 +95,8 @@ Customers experiencing poor connectivity are more likely to leave.
 ---
 
 ## 👨‍💻 Author
+**Pravi Gangurde**  
+📧 pravingangurde3066@gmail.com  
+[🔗 Portfolio / LinkedIn
+](https://www.linkedin.com/in/pravin-gangurde-834947276/)
 
